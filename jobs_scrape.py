@@ -40,3 +40,5 @@ for link in links:
         })
 
 pprint.pprint(back_end_jobs)
+pprint.pprint(junior_jobs)
+pprint.pprint(entry_jobs)
